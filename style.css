@@ -3,3 +3,63 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+img {
+  background-image: url("images/intro-pic.jpg");
+  display: block;
+  position: center; 
+  margin: auto;
+
+}
+
+#featured-property > p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+
+
+
+}
+nav {
+  background: burlywood;
+  text-align: center;
+}
+
+figcaption { 
+  text-align: center;
+  font-size: 10px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+  
+
+}
+
+a {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+div {
+    float:left;
+    text-align: center;
+    width: 25%;
+    background-color:burlywood;
+
+      }
+
+
+
+
+
+
+}
+
+
+
+
